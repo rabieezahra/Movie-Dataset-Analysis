@@ -1,4 +1,4 @@
-# Movies Data Analysis
+# Movies Dataset Analysis
 ## Tools:
 •	Python with Pandas, Matplotlib, Seaborn, Scipy libraries
 
